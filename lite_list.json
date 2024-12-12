@@ -2301,7 +2301,7 @@
         "name": "samp.etc.dat",
         "size": "33295842",
         "path": "texdb/samp/samp.etc.dat",
-        "url": "https://github.com/James00019/manilarp-data/releases/download/%23game_data/samp.etc.dat",
+        "url": "https://github.com/James00019/manilarp-data/releases/download/game-data/samp.etc.dat",
         "gpu": "all"
     },
     {
@@ -2350,7 +2350,7 @@
         "name": "samp.unc.dat",
         "size": "33150952",
         "path": "texdb/samp/samp.unc.dat",
-        "url": "https://github.com/James00019/manilarp-data/releases/download/%23game_data/samp.unc.dat",
+        "url": "https://github.com/James00019/manilarp-data/releases/download/game-data/samp.unc.dat",
         "gpu": "all"
     },
     {
